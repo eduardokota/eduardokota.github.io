@@ -1,3 +1,5 @@
+#(°Д°)
+
 This is just a personal test/draft/sandbox.
 I'm just a beginner and just start learning frontend code.
 
@@ -15,6 +17,6 @@ I had to learn English because most my textbooks was written in English.
 
 I read English websites most of time to access worldwide culture on Internet.
 
-I'm learning (forgotten) Japanese to be able talk with relatives in Japan. 
+I'm learning (forgotten) Japanese to be able talk with relatives in Japan.
 
 ###(^ω^) trying make the hard easier
