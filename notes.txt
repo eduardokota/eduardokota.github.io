@@ -88,10 +88,6 @@ http://mentalfloss.com/article/48793/18-complicated-scientific-ideas-explained-s
 <!-- Who said japanese is hard to learn
 http://www.tofugu.com/2012/02/22/why-people-say-japanese-is-hard-to-learn-and-why-theyre-wrong/
 
-
--->
-<!-- Fonts like Ubuntu as Maven Pro are more cool and modern-->
-
 <!--Jade Dominguez is the creator of  Jekyll
 http://jekyllbootstrap.com/
 http://plusjade.com/

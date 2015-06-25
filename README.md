@@ -9,6 +9,7 @@ I'm coding a simple responsive static website enjoying lot of css3 new features 
 * processing Jade and Stylus with Prepros.
 * editing Sublime Text 3 with Emmet on Windows OS.
 * embed [Disqus](https://disqus.com/admin/universalcode/) to enable comments.
+* with cool modern font like [Ubuntu](https://www.google.com/fonts#UsePlace:use/Collection:Ubuntu)
 
 Will be not compatible with IE9, assuming that in near future most Windows users will shift to Windows 10 (Edge, Chrome or Firefox browsers). 
 
