@@ -15,5 +15,7 @@ Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-
 
 I had to learn English because most of my college textbooks are written in English. I read English websites most of time to access worldwide culture on Internet.
 
-I'm learning (forgotten) Japanese to be able talk with relatives in Japan. (^ω^)trying make the hard easier
+I'm learning (forgotten) Japanese to be able talk with relatives in Japan.
+
+#### trying make the (°Д°) hard→easier(^ω^)
 
