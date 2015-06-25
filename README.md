@@ -6,7 +6,8 @@ I'm just a beginner and just started learning frontend code.
 I'm coding a simple responsive static website enjoying lot of css3 new features (as flexbox).
 * more minimalist than Bootstrap (as Pure, Skeleton CSS frameworks).
 * more brief than popular JS (jquery, angular, ajax).
-* using Jade, Stylus, Sublime Text 3, Emmet and Prepros on Windows OS.
+* processing Jade and Stylus with Prepros.
+* editing Sublime Text 3 with Emmet on Windows OS.
 
 Will be not compatible with IE9, assuming that in near future most Windows users will shift to Windows 10 (Edge, Chrome or Firefox browsers). 
 
