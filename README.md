@@ -1,7 +1,7 @@
 ##<sub>hard</sub>(°Д°) → (^ω^)<sub>easier</sub>
 
 This is just a personal test/draft/sandbox.
-I'm just a beginner and just start learning frontend code.
+I'm just a beginner and just started learning frontend code.
 
 I'm testing building a simple responsive static website
 * enjoying lot of css3 new features (as flexbox)
