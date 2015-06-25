@@ -1,4 +1,1 @@
-body {
-  font-family: 'Helvetica Neue', 'Helvetica', arial, 'Meiryo UI', sans;
-  display: flex;
-}
+body{font-family:'Ubuntu','Helvetica Neue','Helvetica',arial,'Meiryo UI',sans;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
