@@ -8,7 +8,7 @@ I'm coding a simple responsive static website enjoying lot of css3 new features 
 * more brief than popular JS (jquery, angular, ajax).
 * processing Jade and Stylus with Prepros.
 * editing Sublime Text 3 with Emmet on Windows OS.
-* embed Disqus to enable comments.
+* embed [Disqus](https://disqus.com/admin/universalcode/) to enable comments.
 
 Will be not compatible with IE9, assuming that in near future most Windows users will shift to Windows 10 (Edge, Chrome or Firefox browsers). 
 
