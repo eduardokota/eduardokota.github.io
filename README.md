@@ -1,4 +1,4 @@
-##(°Д°)<sub>hard</sub>→<sub>easier</sub>(^ω^)
+##<sup>hard</sup>(°Д°) → (^ω^)<sup>easier</sup>
 
 This is just a personal test/draft/sandbox.
 I'm just a beginner and just start learning frontend code.
