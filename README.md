@@ -9,7 +9,7 @@ I'm testing building a simple responsive static website
 * less JS, more brief than popular JS (jquery, angular, ajax)
 * using Jade and Stylus
 
-It's not compatible with IE9, assuming that in near future most windows users will shift to Windows 10 Edge browser
+Will be not compatible with IE9, assuming that in near future most windows users will shift to Windows 10 Edge browser
 
 Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-Brazil native ancestry.
 
