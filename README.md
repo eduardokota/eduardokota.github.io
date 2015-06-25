@@ -16,4 +16,4 @@ I had to learn English because most of my college textbooks are written in Engli
 
 I'm learning (forgotten) Japanese to be able to talk with relatives in Japan, trying to **make it easier** <big>**(°Д°) → (^ω^)**</big>. I relax in 9gag, nicovideo and youtube. I also like anime & draw as hobby.
 
-I learned some python in college. But I lost motivation to learn PHP (of Wordpress, Wikipedia), Rails or Django. Because new technologies as node.js seems better.
+I learned some python in college. But I lost motivation to keep learning PHP (of Wordpress, Wikipedia), Rails or Django. Because new technologies as node.js seems better.
