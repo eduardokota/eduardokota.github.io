@@ -13,7 +13,7 @@ It's not compatible with IE9, assuming that in near future most windows users wi
 
 Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-Brazil native ancestry.
 
-I had to learn English because most my textbooks was written in English.
+I had to learn English because most of my college textbooks are written in English.
 
 I read English websites most of time to access worldwide culture on Internet.
 
