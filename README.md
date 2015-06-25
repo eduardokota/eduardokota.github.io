@@ -1,4 +1,4 @@
-#(°Д°)
+#(°Д°) (^ω^)
 
 This is just a personal test/draft/sandbox.
 I'm just a beginner and just start learning frontend code.
@@ -13,10 +13,7 @@ It's not compatible with IE9, assuming that in near future most windows users wi
 
 Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-Brazil native ancestry.
 
-I had to learn English because most of my college textbooks are written in English.
+I had to learn English because most of my college textbooks are written in English. I read English websites most of time to access worldwide culture on Internet.
 
-I read English websites most of time to access worldwide culture on Internet.
+I'm learning (forgotten) Japanese to be able talk with relatives in Japan. (^ω^)trying make the hard easier
 
-I'm learning (forgotten) Japanese to be able talk with relatives in Japan.
-
-###(^ω^) trying make the hard easier
