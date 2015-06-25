@@ -16,3 +16,4 @@ I had to learn English because most of my college textbooks are written in Engli
 
 I'm learning (forgotten) Japanese to be able talk with relatives in Japan. trying make the (°Д°)hard→easier(^ω^).
 
+I draw as hobby.
