@@ -1,4 +1,4 @@
-#(°Д°) (^ω^)
+##(°Д°)hard→easier(^ω^)
 
 This is just a personal test/draft/sandbox.
 I'm just a beginner and just start learning frontend code.
@@ -17,5 +17,5 @@ I had to learn English because most of my college textbooks are written in Engli
 
 I'm learning (forgotten) Japanese to be able talk with relatives in Japan.
 
-#### trying make the (°Д°) hard→easier(^ω^)
+#### trying make the (°Д°)hard→easier(^ω^)
 
