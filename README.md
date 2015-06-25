@@ -15,6 +15,7 @@ Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-
 I had to learn English because most of my college textbooks are written in English. I read English websites most of time to access worldwide culture on Internet.
 
 I'm learning (forgotten) Japanese to be able to talk with relatives in Japan, trying to 
+
 **make it easier** <big>**(°Д°) → (^ω^)**</big>.
 
 I relax in 9gag, nicovideo and youtube. I also like anime & draw as hobby.
