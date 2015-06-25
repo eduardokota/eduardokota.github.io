@@ -10,7 +10,7 @@ I'm coding a simple responsive static website enjoying lot of css3 new features 
 
 Will be not compatible with IE9, assuming that in near future most Windows users will shift to Windows 10 (Edge, Chrome or Firefox browsers). 
 
-Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-Brazil native ancestry.
+Actually I'm Civil Engineering Student from Brazil, with half-Japanese and half-Brazilian native ancestry.
 
 I had to learn English because most of my college textbooks are written in English. I read English websites most of time to access worldwide culture on Internet.
 
