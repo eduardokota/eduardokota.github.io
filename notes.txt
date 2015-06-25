@@ -1,5 +1,11 @@
 personal random notes
 
+basic git commands
+
+$ git commit -am "its something"
+$ git push origin master
+$ git pull origin master
+
 <!-- [coder survey 2012](http://coders-survey.com/)-->
 <!-- http://stackoverflow.com/research/developer-survey-2015-->
 <!-- #web technology-->
