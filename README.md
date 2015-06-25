@@ -3,7 +3,7 @@
 This is just a personal test/draft/sandbox.
 I'm just a beginner and just started learning frontend code.
 
-I'm building a simple responsive static website enjoying lot of css3 new features (as flexbox)
+I'm coding a simple responsive static website enjoying lot of css3 new features (as flexbox)
 * more minimalist than Bootstrap (as Pure, Skeleton CSS frameworks)
 * more brief than popular JS (jquery, angular, ajax)
 * using Jade and Stylus
