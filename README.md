@@ -1,7 +1,7 @@
 #(ᴼДᴼ)**→**(^ω^)
 
-This is just a personal test/draft/sandbox and I'm just a beginner.
+This is just a personal test/draft/sandbox and I'm just a beginner. I'm practicing offline in Atom editor. 
 
-For a while..., I'll practice offline in this week, before putting something here.
+
 
 
