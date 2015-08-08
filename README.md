@@ -29,10 +29,8 @@ and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
 
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
-[logos](https://worldvectorlogo.com/)
-, 
-[icons](http://www.flaticon.com/most-downloaded/)
-, 
+[logos](https://worldvectorlogo.com/), 
+[icons](http://www.flaticon.com/most-downloaded/), 
 [math](https://www.mathjax.org/) 
 or 
 [gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). 
