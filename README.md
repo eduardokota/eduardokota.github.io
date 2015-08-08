@@ -9,9 +9,12 @@ Just my GitHub for
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/). 
 [Static](http://www.staticapps.org/). 
 
-Code in minimal [Jade](http://jade-lang.com/), [Markdown](http://daringfireball.net/projects/markdown/)
-[Stylus](https://learnboost.github.io/stylus/),
-and optional [Coffeescript](http://coffeescript.org/) / Jquery. On [Sublime Text editor](http://www.sublimetext.com/).
+Code in minimal 
+[Jade](http://jade-lang.com/), 
+[Markdown](http://daringfireball.net/projects/markdown/), 
+[Stylus](https://learnboost.github.io/stylus/) and optional [Coffeescript](http://coffeescript.org/)
+/ [Jquery](https://jquery.com/). 
+On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with [Prepros](https://prepros.io/).
 
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
