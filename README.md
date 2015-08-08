@@ -43,7 +43,6 @@ and
 [Bootstrap](http://getbootstrap.com),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
-**I'm** 1/2japanese 1/2brazilian. 
 **Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
 [Art](https://en.wikipedia.org/wiki/The_arts). 
@@ -51,6 +50,8 @@ and
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
+
+**I'm** 1/2japanese 1/2brazilian. 
 I speak native portuguese. 
 <ruby>初等日本語<rt>しょ とう に ほん ご</ruby> 
 (elementary japanese) 
