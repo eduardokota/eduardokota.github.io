@@ -19,7 +19,7 @@ and
 
 On [Sublime Text editor](http://www.sublimetext.com/).
 [Transplied](https://en.wikipedia.org/wiki/Source-to-source_compiler)
-to HTML5+ with 
+to HTML+CSS+JS with 
 [Prepros](https://prepros.io/).
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 
