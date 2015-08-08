@@ -1,9 +1,9 @@
 Just my GitHub for
 [organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE)
 
-**learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),  [Anime](https://en.wikipedia.org/wiki/Anime) 
-and 
-[Humanities](https://en.wikipedia.org/wiki/Humanities).
+**learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Anime](https://en.wikipedia.org/wiki/Anime).
 
 **Webapp** Making:
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
