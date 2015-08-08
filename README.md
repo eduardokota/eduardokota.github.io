@@ -26,6 +26,7 @@ Enjoy [new browser features](http://caniuse.com/) as
 [WebGL 3D Canvas](http://www.awwwards.com/22-experimental-webgl-demo-examples.html), 
 [&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
+
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for icons, 
 [logos](https://worldvectorlogo.com/), 
