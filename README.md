@@ -48,3 +48,5 @@ and
 [Angular.js](http://angularjs.org),
 [Bootstrap](http://getbootstrap.com),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
+
+I'm <big>½</big>japanese <big>½</big>brazilian. speaks portuguese as native. learning japanese.
