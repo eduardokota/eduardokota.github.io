@@ -30,10 +30,12 @@ Translated to HTML5 with
 Enjoy [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
+[WebGL 3D Canvas](http://www.awwwards.com/22-experimental-webgl-demo-examples.html), 
 [&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
-for icons, logos, 
+for icons, 
+[logos](https://worldvectorlogo.com/), 
 [math](https://www.mathjax.org/) 
 or 
 [gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). 
