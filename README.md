@@ -19,9 +19,7 @@ Code in minimal
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) 
 and optional 
-[Coffeescript](http://coffeescript.org/) 
-+ 
-[Jquery](https://jquery.com/). 
+[Coffeescript](http://coffeescript.org/) + [Jquery](https://jquery.com/). 
 On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with 
 [Prepros](https://prepros.io/).
