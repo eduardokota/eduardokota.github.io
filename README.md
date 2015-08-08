@@ -1,4 +1,4 @@
-Just **my GitHub** for
+Just a **GitHub** for
 [organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
 **I Like** 
