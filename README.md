@@ -5,7 +5,7 @@ I Like
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+Learning [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
 [Art](https://en.wikipedia.org/wiki/The_arts). 
 
