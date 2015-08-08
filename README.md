@@ -9,8 +9,8 @@ Just my **GitHub** for
 and
 [PC Games](http://www.gamespot.com/pc/).
 
-**Webapp** Making:
-Be [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
+Make **Webapp**:
+[Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [Minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 and 
