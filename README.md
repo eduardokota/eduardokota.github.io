@@ -1,14 +1,6 @@
 Just my **GitHub** for
 [get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts). 
-**I Like** 
-[Anime](https://en.wikipedia.org/wiki/Anime)
-and
-[PC Games](http://www.gamespot.com/pc/).
-
 Make **Webapp**:
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
@@ -49,5 +41,12 @@ and
 [Bootstrap](http://getbootstrap.com),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
-I'm <big>½</big>japanese <big>½</big>brazilian. speaks native　portuguese. 
-<ruby>初等日本語<rt>しょ とう に ほん ご</ruby> (elementary japanese) and a bit of English.
+I'm <big>½</big>japanese <big>½</big>brazilian. I speak native　portuguese. 
+<ruby>初等日本語<rt>しょ とう に ほん ご</ruby> (elementary japanese) and a bit of English. 
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts). 
+**I Like** 
+[Anime](https://en.wikipedia.org/wiki/Anime)
+and
+[PC Games](http://www.gamespot.com/pc/).
