@@ -57,8 +57,12 @@ and
 and
 [PC Games](http://www.gamespot.com/pc/).
 
-**I'm** 1/2japanese 1/2brazilian. 
-I speak native portuguese. 
-<ruby>初等日本語<rt>しょ とう に ほん ご</ruby> 
-(elementary japanese) 
-and a bit of English. 
+[I'm half](https://en.wikipedia.org/wiki/H%C4%81fu) 
+[Japanese](https://en.wikipedia.org/wiki/Japanese_Brazilian) and
+[Brazilian](https://en.wikipedia.org/wiki/Brazilian_people). 
+I speak [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
+a bit of
+[English](https://en.wikipedia.org/wiki/English_language)
+and a little of 
+[<ruby>日本語<rt>に ほん ご</ruby>(japanese)](https://en.wikipedia.org/wiki/Japanese_language)
+
