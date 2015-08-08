@@ -7,7 +7,6 @@ Make **Webapp**:
 [Minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 and 
 [Static](http://www.staticapps.org/). 
-
 **Code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
