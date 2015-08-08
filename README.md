@@ -43,7 +43,7 @@ or
 and 
 [can be animated](http://snapsvg.io).
 
-[Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) can be handy, but slowdown when overused, as 
+[Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused, as 
 [Webfonts](https://www.google.com/fonts),
 [Angular.js](http://angularjs.org),
 [Bootstrap](http://getbootstrap.com),
