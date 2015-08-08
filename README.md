@@ -15,12 +15,12 @@ and
 [Static](http://www.staticapps.org/). 
 
 Code in minimal 
-[Jade](http://jade-lang.com/), 
 [Markdown](http://daringfireball.net/projects/markdown/), 
+[Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) 
 and optional 
 [Coffeescript](http://coffeescript.org/) 
-/ 
++ 
 [Jquery](https://jquery.com/). 
 On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with 
