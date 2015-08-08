@@ -1,7 +1,7 @@
 Just my GitHub for
 [organize myself](https://en.wikipedia.org/wiki/5S_%28methodology%29)
 
-**learning/interests** : [STEM](https://en.wikipedia.org/wiki/STEM_fields), [Anime](https://en.wikipedia.org/wiki/Anime) and [Humanities](https://en.wikipedia.org/wiki/Humanities).
+**learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields), [Anime](https://en.wikipedia.org/wiki/Anime) and [Humanities](https://en.wikipedia.org/wiki/Humanities).
 
 **Webapp** Making.
 
