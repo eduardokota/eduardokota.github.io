@@ -11,20 +11,15 @@ Just my GitHub for
 
 Code in minimal [Jade](http://jade-lang.com/), [Markdown](http://daringfireball.net/projects/markdown/)
 [Stylus](https://learnboost.github.io/stylus/),
-and optional [Coffeescript](http://coffeescript.org/) / Jquery.
-
-On [Sublime Text editor](http://www.sublimetext.com/).
+and optional [Coffeescript](http://coffeescript.org/) / Jquery. On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with [Prepros](https://prepros.io/).
 
-Enjoying [new browser features](http://caniuse.com/) as
+[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
+Enjoy [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
 [&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
-
-[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/)
-,alert to
-[update to Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). 
 
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for icons, logos, 
