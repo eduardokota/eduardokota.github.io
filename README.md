@@ -19,8 +19,9 @@ and
 
 On [Sublime Text editor](http://www.sublimetext.com/).
 [Transplied](https://en.wikipedia.org/wiki/Source-to-source_compiler)
-to HTML+CSS+JS with 
-[Prepros](https://prepros.io/).
+with 
+[Prepros](https://prepros.io/)
+to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 
 Enjoy [new browser features](http://caniuse.com/) as
