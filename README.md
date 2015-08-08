@@ -1,7 +1,7 @@
 Just my GitHub for
 [organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-I **Like** 
+I Like 
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
