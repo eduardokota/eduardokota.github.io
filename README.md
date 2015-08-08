@@ -50,4 +50,4 @@ and
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
 I'm <big>½</big>japanese <big>½</big>brazilian. speaks portuguese as native. 
-<big><ruby>初等日本語<rt>しょ とう に ほん ご</ruby></big> (elementary japanese).
+<ruby>初等日本語<rt style='font-size:.7em'>しょ とう に ほん ご</ruby> (elementary japanese).
