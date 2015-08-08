@@ -1,11 +1,11 @@
 Just my GitHub for
 [organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-*I Like* 
+**I Like** 
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
-*Learning* [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
 [Art](https://en.wikipedia.org/wiki/The_arts). 
 
