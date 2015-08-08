@@ -1,22 +1,25 @@
 Just my **GitHub** for
 [get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-Make **Webapp**:
+Research make [Webapp](http://www.sitepoint.com/long-live-web-app/) that's
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [Minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
+[Static](http://www.staticapps.org/), 
 and 
-[Static](http://www.staticapps.org/). 
+[can run Offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 
 **Code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
-[Stylus](https://learnboost.github.io/stylus/) 
-and **optional** 
-[Coffeescript](http://coffeescript.org/) + [Jquery](https://jquery.com/). 
+[Stylus](https://learnboost.github.io/stylus/),
+[Coffeescript](http://coffeescript.org/),
+and 
+[Jquery](https://jquery.com/). For run faster. 
 
 On [Sublime Text editor](http://www.sublimetext.com/).
-Translated to HTML5 with 
+[Transplied]
+to HTML5 with 
 [Prepros](https://prepros.io/).
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 
@@ -39,9 +42,10 @@ and
 [can be animated](http://snapsvg.io).
 
 [Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused, as 
-[Webfonts](https://www.google.com/fonts),
-[AngularJS](http://angularjs.org),
-[Bootstrap](http://getbootstrap.com),
+[Webfonts](https://www.google.com/fonts), 
+[AngularJS](http://angularjs.org), 
+[Bootstrap](http://getbootstrap.com), 
+[Meteor](https://www.meteor.com/),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
 **Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
