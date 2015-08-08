@@ -49,4 +49,5 @@ and
 [Bootstrap](http://getbootstrap.com),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
-I'm <big>½</big>japanese <big>½</big>brazilian. speaks portuguese as native. learning japanese.
+I'm <big>½</big>japanese <big>½</big>brazilian. speaks portuguese as native. 
+elementary <ruby>日本語<rt>に ほん ご</ruby> (japanese).
