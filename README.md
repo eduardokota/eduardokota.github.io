@@ -41,7 +41,7 @@ and
 [Bootstrap](http://getbootstrap.com),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
-I'm **1/2**japanese **1/2**brazilian. 
+**I'm** 1/2japanese 1/2brazilian. 
 **Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
 [Art](https://en.wikipedia.org/wiki/The_arts). 
