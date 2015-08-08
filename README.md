@@ -49,7 +49,7 @@ I'm <big>½</big>japanese <big>½</big>brazilian.
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
-I speak native　portuguese. 
+I speak native portuguese. 
 <ruby>初等日本語<rt>しょ とう に ほん ご</ruby> 
 (elementary japanese) 
 and a bit of English. 
