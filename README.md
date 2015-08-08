@@ -1,9 +1,9 @@
 Just my GitHub for
 [organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE)
 
-**learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+**learning**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts). Likes: 
+[Art](https://en.wikipedia.org/wiki/The_arts). Like: 
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
