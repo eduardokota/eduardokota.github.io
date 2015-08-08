@@ -1,12 +1,13 @@
 Just my GitHub for
-[organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE)
+[organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts). **Like** 
+I **Like** 
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](http://www.gamespot.com/pc/).
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts). 
 
 **Webapp** Making:
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
