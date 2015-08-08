@@ -22,14 +22,16 @@ Enjoying [new browser features](http://caniuse.com/) as
 [&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
 
+[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/)
+,alert to
+[update to Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). 
+
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for icons, logos, 
 [math](https://www.mathjax.org/) or 
 [gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). 
 [Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics) and 
 [can be animated](http://snapsvg.io).
-
-Webapps should end IE support, alert to update to Edge. (My Opinion)
 
 [Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) can be handy, but slowdown webapps when overused, as: 
 [Webfonts](https://www.google.com/fonts).
