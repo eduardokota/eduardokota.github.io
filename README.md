@@ -12,9 +12,10 @@ Just my GitHub for
 Code in minimal [Jade](http://jade-lang.com/), [Markdown](http://daringfireball.net/projects/markdown/)
 [Stylus](https://learnboost.github.io/stylus/), and optional [Coffeescript](http://coffeescript.org/) / Jquery. On [Sublime Text editor](http://www.sublimetext.com/). Translated to HTML5 with [Prepros](https://prepros.io/).
 
-[SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) for icons, logos,  
-[math](https://www.mathjax.org/), 
-[gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97)
+[SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
+for icons, logos,  
+[math](https://www.mathjax.org/) or 
+[gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). 
 [Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics). 
 [Can be animated](http://snapsvg.io).
 
