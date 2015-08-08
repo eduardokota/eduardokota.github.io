@@ -1,4 +1,4 @@
-*Just my GitHub* for
+Just **my GitHub** for
 [organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
 **I Like** 
@@ -15,7 +15,7 @@ and
 and 
 [Static](http://www.staticapps.org/). 
 
-Code in minimal 
+**Code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) 
@@ -41,7 +41,7 @@ or
 and 
 [can be animated](http://snapsvg.io).
 
-[Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) can be handy, but slowdown webapps when overused, as 
+[Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) can be handy, but slowdown when overused, as 
 [Webfonts](https://www.google.com/fonts),
 [Angular.js](http://angularjs.org),
 [Bootstrap](http://getbootstrap.com),
