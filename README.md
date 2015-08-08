@@ -4,7 +4,7 @@ Just my GitHub for
 **learning/interests** : [STEM](https://en.wikipedia.org/wiki/STEM_fields), [Anime](https://en.wikipedia.org/wiki/Anime) and [Humanities](https://en.wikipedia.org/wiki/Humanities).
 
 **Webapp** Making.
-Be
+
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0). 
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/). 
 [Static](http://www.staticapps.org/). 
