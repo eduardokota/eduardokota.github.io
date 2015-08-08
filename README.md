@@ -10,11 +10,10 @@ and
 [PC Games](http://www.gamespot.com/pc/).
 
 **Webapp** Making:
-[Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
+Be [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/) 
 and 
 [Static](http://www.staticapps.org/). 
-
 **Code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
@@ -24,7 +23,6 @@ and optional
 On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with 
 [Prepros](https://prepros.io/).
-
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 Enjoy [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
