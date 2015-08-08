@@ -18,8 +18,8 @@ and
 [Jquery](https://jquery.com/). For run faster. 
 
 On [Sublime Text editor](http://www.sublimetext.com/).
-[Transplied]
-to HTML5 with 
+[Transplied](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+to HTML5+ with 
 [Prepros](https://prepros.io/).
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 
