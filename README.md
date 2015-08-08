@@ -12,13 +12,14 @@ and
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) 
-and optional 
+and **optional** 
 [Coffeescript](http://coffeescript.org/) + [Jquery](https://jquery.com/). 
+
 On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with 
 [Prepros](https://prepros.io/).
-
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
+
 Enjoy [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
