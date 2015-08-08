@@ -3,7 +3,10 @@ Just my GitHub for
 
 **learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Anime](https://en.wikipedia.org/wiki/Anime).
+[Art](https://en.wikipedia.org/wiki/The_arts). Likes: 
+[Anime](https://en.wikipedia.org/wiki/Anime)
+and
+[PC Games](http://www.gamespot.com/pc/).
 
 **Webapp** Making:
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
