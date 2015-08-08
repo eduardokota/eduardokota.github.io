@@ -1,5 +1,5 @@
 Just my GitHub for
-[organize myself](https://en.wikipedia.org/wiki/5S_%28methodology%29)
+[organize myself](https://www.youtube.com/watch?v=s8yT8Eh_efE)
 
 **learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),  [Anime](https://en.wikipedia.org/wiki/Anime) 
 and 
