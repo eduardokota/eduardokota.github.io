@@ -23,13 +23,13 @@ and optional
 On [Sublime Text editor](http://www.sublimetext.com/).
 Translated to HTML5 with 
 [Prepros](https://prepros.io/).
+
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 Enjoy [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
 [&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
-
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for icons, logos, 
 [math](https://www.mathjax.org/) 
