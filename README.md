@@ -11,7 +11,8 @@ and
 
 **Webapp** Making:
 Be [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
-[Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/) 
+[Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
+[Minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 and 
 [Static](http://www.staticapps.org/). 
 
