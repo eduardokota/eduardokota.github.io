@@ -1,4 +1,4 @@
-Just my **GitHub** to
+Just my **GitHub** for
 [get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
 **I Like** 
