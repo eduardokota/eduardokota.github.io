@@ -1,20 +1,27 @@
 Just my GitHub for
 [organize myself](https://en.wikipedia.org/wiki/5S_%28methodology%29)
 
-**learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields), [Anime](https://en.wikipedia.org/wiki/Anime) and [Humanities](https://en.wikipedia.org/wiki/Humanities).
+**learning/interests**: [STEM](https://en.wikipedia.org/wiki/STEM_fields),  [Anime](https://en.wikipedia.org/wiki/Anime) 
+and 
+[Humanities](https://en.wikipedia.org/wiki/Humanities).
 
 **Webapp** Making:
 [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
-[Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
+[Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/) 
+and 
 [Static](http://www.staticapps.org/). 
 
 Code in minimal 
 [Jade](http://jade-lang.com/), 
 [Markdown](http://daringfireball.net/projects/markdown/), 
-[Stylus](https://learnboost.github.io/stylus/) and optional [Coffeescript](http://coffeescript.org/)
-/ [Jquery](https://jquery.com/). 
+[Stylus](https://learnboost.github.io/stylus/) 
+and optional 
+[Coffeescript](http://coffeescript.org/) 
+/ 
+[Jquery](https://jquery.com/). 
 On [Sublime Text editor](http://www.sublimetext.com/).
-Translated to HTML5 with [Prepros](https://prepros.io/).
+Translated to HTML5 with 
+[Prepros](https://prepros.io/).
 
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 Enjoy [new browser features](http://caniuse.com/) as
@@ -25,9 +32,11 @@ and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
 
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for icons, logos, 
-[math](https://www.mathjax.org/) or 
+[math](https://www.mathjax.org/) 
+or 
 [gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). 
-[Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics) and 
+[Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics) 
+and 
 [can be animated](http://snapsvg.io).
 
 [Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) can be handy, but slowdown webapps when overused, as 
