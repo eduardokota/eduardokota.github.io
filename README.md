@@ -1,5 +1,5 @@
-Just my **GitHub** for
-[organize my projects](https://www.youtube.com/watch?v=s8yT8Eh_efE).
+Just my **GitHub** to
+[get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
 **I Like** 
 [Anime](https://en.wikipedia.org/wiki/Anime)
