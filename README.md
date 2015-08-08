@@ -14,6 +14,7 @@ Be [Responsive](https://www.youtube.com/watch?v=snQp757_Rr0),
 [Trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/) 
 and 
 [Static](http://www.staticapps.org/). 
+
 **Code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
