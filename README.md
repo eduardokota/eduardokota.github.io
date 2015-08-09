@@ -38,16 +38,13 @@ or
 and 
 [can be animated](http://snapsvg.io).
 
-[Third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused, as 
+I think that [third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused, as 
 [Webfonts](https://www.google.com/fonts), 
 [AngularJS](http://angularjs.org), 
 [Bootstrap](http://getbootstrap.com), 
 [Meteor](https://www.meteor.com/),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts). 
 **I Like** 
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
@@ -62,3 +59,6 @@ some
 and a bit of 
 [<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
 
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts). 
