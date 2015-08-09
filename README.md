@@ -62,4 +62,4 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 [NodeJS](http://nodeframework.com/),
 [Meteor](https://www.meteor.com/)
 ).
-+ For Sigin use [Social Login](https://en.wikipedia.org/wiki/Social_login).
++ Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
