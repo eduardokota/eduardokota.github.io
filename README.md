@@ -38,7 +38,7 @@ or
 and 
 [can be animated](http://snapsvg.io).
 
-[3rdparty widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as 
+[3rdparty solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as 
 + [Webfonts](https://www.google.com/fonts), 
 [Social Login](https://en.wikipedia.org/wiki/Social_login)
 + [CSS](http://www.cssauthor.com/css-frameworks/), 
