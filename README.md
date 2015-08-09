@@ -38,10 +38,10 @@ or
 and 
 [can be animated](http://snapsvg.io).
 
-I think that [third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused, as 
+I think that [third-party solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused on web, as 
 [Webfonts](https://www.google.com/fonts), 
-[AngularJS](http://angularjs.org), 
-[Bootstrap](http://getbootstrap.com), 
+[JS Frameworks](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), 
+[CSS Frameworks](http://www.cssauthor.com/css-frameworks/), 
 [Meteor](https://www.meteor.com/),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
