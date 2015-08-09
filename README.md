@@ -23,7 +23,7 @@ with
 [Prepros](https://prepros.io/)
 to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
 
-Enjoy [new browser features](http://caniuse.com/) as
+I enjoy [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
 [WebGL 3D Canvas](http://www.awwwards.com/22-experimental-webgl-demo-examples.html), 
