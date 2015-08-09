@@ -3,13 +3,12 @@ Just my **GitHub** for
 
 [Webapp](http://www.sitepoint.com/long-live-web-app/) Dev
 
-[responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
++ [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 [static](http://www.staticapps.org/), 
 and 
 [also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
-
 + **code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
@@ -17,13 +16,11 @@ and
 [Coffeescript](http://coffeescript.org/),
 and 
 [Jquery](https://jquery.com/). For run faster. 
-
 + on [Sublime Text editor](http://www.sublimetext.com/).
 [compiled](https://en.wikipedia.org/wiki/Compiler)
 with 
 [Prepros](https://prepros.io/)
 to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
-
 + with [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
@@ -31,7 +28,6 @@ to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/w
 [&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
-
 + [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
 [logos](https://worldvectorlogo.com/), 
