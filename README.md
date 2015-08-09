@@ -26,13 +26,13 @@ like a nerd.
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 and 
 [also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
-+ **code** in **minimal**
++ **code** in 
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/),
 [Coffeescript](http://coffeescript.org/),
 and 
-[Jquery](https://jquery.com/). For run faster. 
+[Jquery](https://jquery.com/). **Minimal** for run faster. 
 + **code** on [Sublime Text editor](http://www.sublimetext.com/).
 [compiled](https://en.wikipedia.org/wiki/Compiler)
 with 
