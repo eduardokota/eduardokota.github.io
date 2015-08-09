@@ -1,13 +1,13 @@
 Just my **GitHub** for
 [get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-Research make [Webapp](http://www.sitepoint.com/long-live-web-app/) that's
+Research make [Webapps](http://www.sitepoint.com/long-live-web-app/) 
 [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 [static](http://www.staticapps.org/), 
 and 
-[can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
+[also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 
 **Code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
