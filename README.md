@@ -37,8 +37,7 @@ or
 [Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics) 
 and 
 [can be animated](http://snapsvg.io).
-
-I think that [third-party solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused on web, as 
++ [3rdparty solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy, but slowdown when overused, as 
 [CSS](http://www.cssauthor.com/css-frameworks/) and
 [JS Frameworks](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), 
 [Webfonts](https://www.google.com/fonts), 
