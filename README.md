@@ -25,7 +25,7 @@ like a nerd.
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 and 
-[also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
+[can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 + **code** in 
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
