@@ -10,7 +10,7 @@ Just my **GitHub** for
 and 
 [also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 
-**Code** in **minimal**
++ **code** in **minimal**
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/),
@@ -18,13 +18,13 @@ and
 and 
 [Jquery](https://jquery.com/). For run faster. 
 
-On [Sublime Text editor](http://www.sublimetext.com/).
++ on [Sublime Text editor](http://www.sublimetext.com/).
 [compiled](https://en.wikipedia.org/wiki/Compiler)
 with 
 [Prepros](https://prepros.io/)
 to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
 
-I enjoy [new browser features](http://caniuse.com/) as
++ with [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
 [WebGL 3D Canvas](http://www.awwwards.com/22-experimental-webgl-demo-examples.html), 
@@ -32,7 +32,7 @@ I enjoy [new browser features](http://caniuse.com/) as
 and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
 
-[SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
++ [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
 [logos](https://worldvectorlogo.com/), 
 [icons](http://www.flaticon.com/most-downloaded/), 
