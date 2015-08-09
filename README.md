@@ -15,10 +15,6 @@ some
 and a bit of 
 [<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
 
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts). 
-
 [Webapp](http://www.sitepoint.com/long-live-web-app/) **Dev**
 + [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
@@ -64,3 +60,8 @@ and
 [NodeJS](http://nodeframework.com/),
 [Meteor](https://www.meteor.com/)
 frameworks.
+
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts)
+like a nerd.
