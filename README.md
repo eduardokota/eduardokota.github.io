@@ -64,5 +64,5 @@ I speak [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](htt
 some
 [English](https://en.wikipedia.org/wiki/English_language)
 and a bit of 
-[<ruby>日本語<rt>に ほん ご</ruby>(japanese)](https://en.wikipedia.org/wiki/Japanese_language)
+[<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
 
