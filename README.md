@@ -65,5 +65,5 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
 
 
-+ [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) are discarded because have poor support for asian languages. Despite [Python](https://www.python.org/) be the favorite in West academy.
+[Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) are discarded because have poor support for asian languages. Despite [Python](https://www.python.org/) be the favorite in West academy.
 I prefer [Coffeescript](http://coffeescript.org/) which also have nice syntax.
