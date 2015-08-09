@@ -67,4 +67,4 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + Web books are better than epub or pdf.
 
 
-[Python](https://www.python.org/) is favorite of West academy because excellent science libraries. Unpopular in Asia because have poor support for asian languages. [Coffeescript](http://coffeescript.org/) evolved from [Python](https://www.python.org/).
+[Coffeescript](http://coffeescript.org/) syntax evolved from [Python](https://www.python.org/). [Python](https://www.python.org/) is favorite of West academy because excellent science libraries. Unpopular in Asia because have poor support for asian languages.
