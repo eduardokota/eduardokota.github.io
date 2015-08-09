@@ -1,7 +1,7 @@
 Just my **GitHub** for
 [get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-Research make [Webapps](http://www.sitepoint.com/long-live-web-app/):
+I'm researching to make [Webapps](http://www.sitepoint.com/long-live-web-app/):
 [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
