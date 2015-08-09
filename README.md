@@ -1,5 +1,23 @@
 Just my **GitHub** for
-[get organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
+[stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
+
+[I'm half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu)
+and
+[Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian). 
+**I Like** 
+[Anime](https://en.wikipedia.org/wiki/Anime)
+and
+[PC Games](https://www.unrealengine.com/).
+
+I speak [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
+some
+[English](https://en.wikipedia.org/wiki/English_language)
+and a bit of 
+[<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
+
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts). 
 
 [Webapp](http://www.sitepoint.com/long-live-web-app/) **Dev**
 + [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
@@ -46,22 +64,3 @@ and
 [NodeJS](http://nodeframework.com/),
 [Meteor](https://www.meteor.com/)
 frameworks.
-
-
-[I'm half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu)
-and
-[Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian). 
-**I Like** 
-[Anime](https://en.wikipedia.org/wiki/Anime)
-and
-[PC Games Dev](https://www.unrealengine.com/).
-
-I speak [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
-some
-[English](https://en.wikipedia.org/wiki/English_language)
-and a bit of 
-[<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
-
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts). 
