@@ -24,7 +24,6 @@ like a nerd.
 + [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
-[static](http://www.staticapps.org/), 
 and 
 [also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 + **code** in **minimal**
@@ -34,11 +33,12 @@ and
 [Coffeescript](http://coffeescript.org/),
 and 
 [Jquery](https://jquery.com/). For run faster. 
-+ on [Sublime Text editor](http://www.sublimetext.com/).
++ **code** on [Sublime Text editor](http://www.sublimetext.com/).
 [compiled](https://en.wikipedia.org/wiki/Compiler)
 with 
 [Prepros](https://prepros.io/)
 to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
++ [static](http://www.staticapps.org/) ＞ [Node.js](https://nodejs.org/) with [Coffeescript](http://coffeescript.org/) ＞ [Ruby](https://www.ruby-lang.org/en//) ＞ [Node.js](https://nodejs.org/) with only the quirky [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 + with [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
