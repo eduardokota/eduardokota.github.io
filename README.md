@@ -18,7 +18,7 @@ and
 [Jquery](https://jquery.com/). For run faster. 
 
 On [Sublime Text editor](http://www.sublimetext.com/).
-[Transplied](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+[compiled](https://en.wikipedia.org/wiki/Compiler)
 with 
 [Prepros](https://prepros.io/)
 to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
