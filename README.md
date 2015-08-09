@@ -64,7 +64,7 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 [Meteor](https://www.meteor.com/)
 ).
 + Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
-+ Web ebooks are better than epub or pdf.
++ Web books are better than epub or pdf.
 
 
 [Python](https://www.python.org/) is favorite of West academy because excellent science libraries. Unpopular in Asia because have poor support for asian languages. The pretty [Coffeescript](http://coffeescript.org/) evolved from [Python](https://www.python.org/).
