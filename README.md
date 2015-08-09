@@ -45,14 +45,14 @@ I think that [third-party widgets](http://cloudcannon.com/tips/2014/12/12/the-ul
 [Meteor](https://www.meteor.com/),
 [Social Login](https://en.wikipedia.org/wiki/Social_login). 
 
+[I'm half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu)
+and
+[Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian). 
 **I Like** 
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games Dev](https://www.unrealengine.com/).
 
-[I'm half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu)
-and
-[Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian). 
 I speak [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
 some
 [English](https://en.wikipedia.org/wiki/English_language)
