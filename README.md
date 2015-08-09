@@ -29,10 +29,11 @@ and
 + **code** in 
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
-[Stylus](https://learnboost.github.io/stylus/),
-[Coffeescript](http://coffeescript.org/),
-and 
-[Jquery](https://jquery.com/). **Minimal** for run faster. 
+[Stylus](https://learnboost.github.io/stylus/).
+with **minimal** 
+[Coffeescript](http://coffeescript.org/) +
+[Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
+for run faster. 
 + **code** on [Sublime Text editor](http://www.sublimetext.com/).
 [compiled](https://en.wikipedia.org/wiki/Compiler)
 with 
