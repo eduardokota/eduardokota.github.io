@@ -64,4 +64,4 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 ).
 + Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
 
-[Python](https://www.python.org/) is Favorite in West academy because excellent science libraries. unpopular in Asia because have poor support for asian languages. The pretty [Coffeescript](http://coffeescript.org/) evolved from [Python](https://www.python.org/).
+[Python](https://www.python.org/) is favorite of West academy because excellent science libraries. Unpopular in Asia because have poor support for asian languages. The pretty [Coffeescript](http://coffeescript.org/) evolved from [Python](https://www.python.org/).
