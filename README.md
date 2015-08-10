@@ -8,15 +8,15 @@ and
 [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [PC Games](https://www.unrealengine.com/).
+**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts)
+like a nerd.
 I speak [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
 some
 [English](https://en.wikipedia.org/wiki/English_language)
 and a bit of 
 [<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
-**Learning** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts)
-like a nerd.
 
 [Webapp](http://www.sitepoint.com/long-live-web-app/) **Dev**
 + ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
