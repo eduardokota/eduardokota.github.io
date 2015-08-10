@@ -12,7 +12,7 @@ and
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
 [Art](https://en.wikipedia.org/wiki/The_arts)
 like a nerd.
-I **speak** [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
+**I speak** [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
 some
 [English](https://en.wikipedia.org/wiki/English_language)
 and a bit of 
