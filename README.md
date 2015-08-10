@@ -34,12 +34,18 @@ with **minimal**
 [Coffeescript](http://coffeescript.org/) +
 [Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
 for run faster. 
-+ **code** on [Sublime Text editor](http://www.sublimetext.com/).
-[compiled](https://en.wikipedia.org/wiki/Compiler)
-with 
-[Prepros](https://prepros.io/)
-to [HTML](https://en.wikipedia.org/wiki/HTML) + [CSS](https://en.wikipedia.org/wiki/Css) + [JS](https://en.wikipedia.org/wiki/JavaScript).
-+ [static](http://www.staticapps.org/) ＞ [Node.js](https://nodejs.org/) + [Coffeescript](http://coffeescript.org/) ＞ [Ruby](https://www.ruby-lang.org/en//) (on [Rails](http://rubyonrails.org/) or [Sinatra](https://github.com/sinatra/sinatra)) ＞ [Node.js](https://nodejs.org/) + the quirky [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
++ [Prepros](https://prepros.io/)
+for [autoprefix](https://css-tricks.com/autoprefixer/)
+and
+[compile](https://en.wikipedia.org/wiki/Compiler)
+to
+[HTML](https://en.wikipedia.org/wiki/HTML) + 
+[CSS](https://en.wikipedia.org/wiki/Css) + 
+[JS](https://en.wikipedia.org/wiki/JavaScript) .
++ [static](http://www.staticapps.org/)
+＞ [Node.js](https://nodejs.org/) + [Coffeescript](http://coffeescript.org/)
+＞ [Ruby](https://www.ruby-lang.org/en//) (on [Rails](http://rubyonrails.org/) or [Sinatra](https://github.com/sinatra/sinatra))
+＞ [Node.js](https://nodejs.org/) + the quirky [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 + with [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
@@ -66,5 +72,11 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
 + Web books are better than epub or pdf.
 
+[Python](https://www.python.org/)
+Favorite in West academy due to excellent science libraries and simplicity. However is unpopular in Asia due to poor support for asian languages.
 
-[Python](https://www.python.org/) is favorite in West academy due to excellent science libraries and simplicity. However is unpopular in Asia due to poor support for asian languages.
+[Sublime Text editor](http://www.sublimetext.com/)
+Faster compared to Atom or Brackets.
+Package Control is essential.
+Emmet Package is handy to code webapps.
+IMESuport Package is required to write in Asian languages.
