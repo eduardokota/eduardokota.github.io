@@ -73,7 +73,7 @@ Favorite in West academy due to excellent science libraries and simplicity. Howe
 Code editor (Light ＞ bloated IDE)
 + [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. Developed slowly(https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by a [single man](http://www.sublimetext.com/blog/).
 + [Atom](https://atom.io/) crashes a lot. But is getting better. Developed by active Github volunteers. Coolest design. Hackable to the core.
-+ [Brackets](http://brackets.io/) has fancy features, as Browser Preview but I use already [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/).
++ [Brackets](http://brackets.io/) has fancy features, as Browser Preview but I already use [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/).
 + [Atom](https://atom.io/) and [Brackets](https://atom.io/) have FLOSS license.
 + [Emmet](http://emmet.io/) plugin/package is essential for web-developers in any editor.
 + [IMESuport](https://github.com/chikatoike/IMESupport) Package is needed on [Sublime](http://www.sublimetext.com/) to type Asian Languages.
