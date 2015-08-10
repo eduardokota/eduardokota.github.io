@@ -63,7 +63,7 @@ or
 [Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics) 
 and 
 [can be animated](http://snapsvg.io).
-+ [3rdparty solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts), 
++ [3rdparty solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts)
 and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), 
 [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries),
 [NodeJS](http://nodeframework.com/),
