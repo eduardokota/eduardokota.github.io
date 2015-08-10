@@ -64,7 +64,7 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 [NodeJS](http://nodeframework.com/),
 [Meteor](https://www.meteor.com/)).
 + Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
-+ webooks or [epub](http://idpf.org/epub) are responsive (better for multiple screens or paper sizes) and more trendy than [pdf](http://www.adobe.com/devnet/pdf.html).
++ webooks and [epub](http://idpf.org/epub) are responsive (better for multiple screens or paper sizes) and more trendy than [pdf](http://www.adobe.com/devnet/pdf.html).
 
 [Python](https://www.python.org/)
 
