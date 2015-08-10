@@ -67,7 +67,7 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + Web books are better than epub or pdf.
 
 [Python](https://www.python.org/)
-Favorite in West academy due to excellent science libraries and simplicity. However is unpopular in Asia due to poor support for asian languages.
+Favorite in West academy due to excellent science libraries and simplicity. However is unpopular in East Asia due to poor support for Asian languages.
 
 [Sublime Text](http://www.sublimetext.com/) code editor is
 faster than Atom or Brackets.
