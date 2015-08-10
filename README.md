@@ -75,6 +75,7 @@ Code editor
 + [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. [Developed slowly](https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by [a single man](http://www.sublimetext.com/blog/).
 + [Atom](https://atom.io/) has coolest design, crashes a lot, but getting better. [Developed by active Github volunteers](https://github.com/atom/atom).
 + [Brackets](http://brackets.io/) has fancy features, as Live Preview but I already use [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/). 
-+ [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2), easier than [Sublime](http://www.sublimetext.com/) to use and learn, accesible even for a layman.
++ [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2), coded with Web technologies and Node.js.
++ [Atom](https://atom.io/) and [Brackets](https://atom.io/) are much easier than [Sublime](http://www.sublimetext.com/) to use and learn, accesible even for a layman.
 + [Emmet](http://emmet.io/) plugin/package is essential for web-developers in any editor.
 + For type Asian Languages. [IMESuport](https://github.com/chikatoike/IMESupport) Package is needed on [Sublime](http://www.sublimetext.com/). [Brackets](http://brackets.io/) is buggy. [Atom](https://atom.io/) work fine.
