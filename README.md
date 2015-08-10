@@ -79,4 +79,4 @@ Favorite in West academy due to excellent science libraries and simplicity. Howe
 Faster compared to Atom or Brackets.
 Package Control is essential.
 Emmet Package is handy to code webapps.
-IMESuport Package is required to type Asian languages.
+IMESuport Package is essential to type Asian languages.
