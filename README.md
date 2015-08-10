@@ -76,6 +76,5 @@ Code editor
 + [Atom](https://atom.io/) has coolest design, crashes a lot, but getting better. [Developed by active Github volunteers](https://github.com/atom/atom). Coded with [Coffeescript](http://coffeescript.org/) and [NodeJS](http://nodeframework.com/).
 + [Brackets](http://brackets.io/) has fancy features, as Live Preview but I already use [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/).  Coded in [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 + [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2), and are very easier to use and learn even for a layman, unlike [Sublime](http://www.sublimetext.com/).
-+ [Atom](https://atom.io/) and [Brackets](https://atom.io/) 
 + [Emmet](http://emmet.io/) plugin/package is essential for web-developers in any editor.
 + For type Asian Languages. [IMESuport](https://github.com/chikatoike/IMESupport) Package is needed on [Sublime](http://www.sublimetext.com/). [Brackets](http://brackets.io/) is buggy. [Atom](https://atom.io/) work fine.
