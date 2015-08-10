@@ -72,10 +72,10 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + [Python](https://www.python.org/) is unpopular in East Asia, because type Asian languages [is tricky in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
 
 Code editor
-+ [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. [Developed slowly](https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by [a single man](http://www.sublimetext.com/blog/).
-+ [Atom](https://atom.io/) has coolest design, crashes a lot, but getting better. [Developed by active Github volunteers](https://github.com/atom/atom).
-+ [Brackets](http://brackets.io/) has fancy features, as Live Preview but I already use [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/). 
-+ [Atom](https://atom.io/) and [Brackets](https://atom.io/) are very easier to use and learn even for a layman, unlike [Sublime](http://www.sublimetext.com/).
-+ [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2), coded with web technologies and Node.js.
++ [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. [Developed slowly](https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by [a single man](http://www.sublimetext.com/blog/). Coded in C++, Python.
++ [Atom](https://atom.io/) has coolest design, crashes a lot, but getting better. [Developed by active Github volunteers](https://github.com/atom/atom). Coded with [Coffeescript](http://coffeescript.org/) and [NodeJS](http://nodeframework.com/).
++ [Brackets](http://brackets.io/) has fancy features, as Live Preview but I already use [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/).  Coded in [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
++ [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2), and are very easier to use and learn even for a layman, unlike [Sublime](http://www.sublimetext.com/).
++ [Atom](https://atom.io/) and [Brackets](https://atom.io/) 
 + [Emmet](http://emmet.io/) plugin/package is essential for web-developers in any editor.
 + For type Asian Languages. [IMESuport](https://github.com/chikatoike/IMESupport) Package is needed on [Sublime](http://www.sublimetext.com/). [Brackets](http://brackets.io/) is buggy. [Atom](https://atom.io/) work fine.
