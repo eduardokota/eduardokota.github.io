@@ -75,8 +75,8 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 [Python](https://www.python.org/)
 Favorite in West academy due to excellent science libraries and simplicity. However is unpopular in Asia due to poor support for asian languages.
 
-[Sublime Text editor](http://www.sublimetext.com/)
-Faster compared to Atom or Brackets.
+[Sublime Text](http://www.sublimetext.com/) code editor is
+faster than Atom or Brackets.
 Package Control is essential.
 Emmet Package is handy to code webapps.
 IMESuport Package is essential to type Asian languages.
