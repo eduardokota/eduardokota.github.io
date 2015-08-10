@@ -72,7 +72,7 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + [Python](https://www.python.org/) is unpopular in East Asia, because type Asian languages [is tricky in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
 
 Code editor (Light ＞ bloated IDE)
-+ [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. Developed slowly(https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by a [single man](http://www.sublimetext.com/blog/).
++ [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. [Developed slowly](https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by a [single man](http://www.sublimetext.com/blog/).
 + [Atom](https://atom.io/) crashes a lot. But is getting better. Coolest design. Developed by active Github volunteers.  Hackable to the core.
 + [Brackets](http://brackets.io/) has fancy features, as Browser Preview but I already use [Prepros](https://prepros.io/) for it. Developed by [Adobe corporation](http://www.adobe.com/). 
 + [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2).
