@@ -21,9 +21,10 @@ and a bit of
 like a nerd.
 
 [Webapp](http://www.sitepoint.com/long-live-web-app/) **Dev**
-+ [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
++ ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
+[static](http://www.staticapps.org/), 
 and 
 [can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 + **code** in 
@@ -41,11 +42,7 @@ and
 to
 [HTML](https://en.wikipedia.org/wiki/HTML) + 
 [CSS](https://en.wikipedia.org/wiki/Css) + 
-[JS](https://en.wikipedia.org/wiki/JavaScript) .
-+ [static](http://www.staticapps.org/)
-＞ [Node.js](https://nodejs.org/) + [Coffeescript](http://coffeescript.org/)
-＞ [Ruby](https://www.ruby-lang.org/en//) (on [Rails](http://rubyonrails.org/) or [Sinatra](https://github.com/sinatra/sinatra))
-＞ [Node.js](https://nodejs.org/) + the quirky [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[JS](https://en.wikipedia.org/wiki/JavaScript).
 + with [new browser features](http://caniuse.com/) as
 [flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
 [calc()](http://caniuse.com/#feat=calc), 
