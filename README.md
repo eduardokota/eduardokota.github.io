@@ -67,12 +67,28 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 [Python](https://www.python.org/)
 
 + [Favorite in West academy due to excellent science libraries](http://programmers.stackexchange.com/questions/138643/why-is-python-used-for-high-performance-scientific-computing-but-ruby-isnt) and simplicity. 
-+ [Python](https://www.python.org/) is unpopular in East Asia, because type Asian languages [is tricky in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
++ Unpopular in East Asia, because Asian languages [are tricky to type in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
+
+Game Dev
+
++ [Unity](https://unity3d.com/) can port Games for Web and Mobile easier.
++ [Unreal](https://www.unrealengine.com/) has better graphics. Many AAA Games were made with Unreal as [Mass Effect](https://www.youtube.com/user/biowaremasseffect).
++ With [Unreal](https://www.unrealengine.com/), [port on Web is only experimental](https://blog.mozilla.org/blog/2014/03/12/mozilla-and-epic-preview-unreal-engine-4-running-in-firefox/) and very tricky yet, via [Emscripten](https://github.com/kripken/emscripten).
++ [Unity](https://unity3d.com/) target [indie, but can also make good AAA Games](http://forum.unity3d.com/threads/unity-cant-make-good-triple-a-games.312681/).
++ [HTML5](http://www.html5gamedevelopment.com/) replaces [Flash](http://www.adobe.com/products/flash.html) as main technology for make 2d games for web.
++ [Flash](http://www.adobe.com/products/flash.html) is [fading](http://isflashdeadyet.com/) despise recent success in Japan of Flash games like [Kancolle](http://www.dmm.com/netgame_s/kancolle/).
+
+
 
 Code editor
+
 + [Sublime Text](http://www.sublimetext.com/) is the fastest. Need [Package Control](http://packagecontrol.io). [Freemium](http://www.freemium.org/what-is-freemium-2/) and proprietary. [Developed slowly](https://www.sublimetext.com/forum/viewtopic.php?f=2&t=17340&start=30) by [a single man](http://www.sublimetext.com/blog/). Coded in C++ and Python.
 + [Atom](https://atom.io/) has coolest design, crashes a lot, but getting better. [Developed by active Github volunteers](https://github.com/atom/atom). Coded with [Coffeescript](http://coffeescript.org/),  [NodeJS](http://nodeframework.com/) and [web techs](https://developer.mozilla.org/en-US/docs/Web).
 + [Brackets](http://brackets.io/) has fancy features. As Live Preview, but [Prepros](https://prepros.io/) is better for it. Developed by [Adobe corporation](http://www.adobe.com/).  Coded in [web techs](https://developer.mozilla.org/en-US/docs/Web).
 + [Atom](https://atom.io/) and [Brackets](https://atom.io/) have [FLOSS licence](https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS_2), and are very easier to use and learn even for a layman, unlike [Sublime](http://www.sublimetext.com/).
 + [Emmet](http://emmet.io/) plugin/package is essential for web-developers in any editor.
 + For type Asian Languages. [IMESuport](https://github.com/chikatoike/IMESupport) Package is needed on [Sublime](http://www.sublimetext.com/). [Brackets](http://brackets.io/) is buggy. [Atom](https://atom.io/) work fine.
+
+
+
+
