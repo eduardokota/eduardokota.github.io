@@ -63,13 +63,12 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 [Meteor](https://www.meteor.com/)).
 + Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
 + webooks and [epub](http://idpf.org/epub) are responsive (better for multiple screens or paper sizes) and more trendy than [pdf](http://www.adobe.com/devnet/pdf.html).
++ [Allow play good games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html)
 
 [Python](https://www.python.org/)
 
 + [Favorite in West academy due to excellent science libraries](http://programmers.stackexchange.com/questions/138643/why-is-python-used-for-high-performance-scientific-computing-but-ruby-isnt) and simplicity. 
 + Unpopular in East Asia, because Asian languages [are tricky to type in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
-
-[Game Dev for Web](http://moduscreate.com/the-state-of-html5-gaming/)
 
 Code editor
 
