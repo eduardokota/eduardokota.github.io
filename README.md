@@ -18,34 +18,18 @@ some
 and a bit of 
 [<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
 
-[Webapp](http://www.sitepoint.com/long-live-web-app/) **Dev**
+[Web code](http://www.sitepoint.com/long-live-web-app/).
 + ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 [static](http://www.staticapps.org/), 
-and 
 [can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
-+ **code** in 
-[Markdown](http://daringfireball.net/projects/markdown/), 
-[Jade](http://jade-lang.com/), 
-[Stylus](https://learnboost.github.io/stylus/).
-with **minimal** 
+and [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html)
++ **minimal** 
 [Coffeescript](http://coffeescript.org/) +
 [Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
-for run faster. 
-+ [Prepros](https://prepros.io/)
-for [autoprefix](https://css-tricks.com/autoprefixer/)
-and
-[compile](https://en.wikipedia.org/wiki/Compiler)
-to
-[web techs](https://developer.mozilla.org/en-US/docs/Web).
-+ with [new browser features](http://caniuse.com/) as
-[flexbox](https://philipwalton.github.io/solved-by-flexbox/), 
-[calc()](http://caniuse.com/#feat=calc), 
-[WebGL 3D Canvas](http://www.awwwards.com/22-experimental-webgl-demo-examples.html), 
-[&lt;video&gt;](http://www.jwplayer.com/products/jwplayer/)
-and [new html elements](http://www.w3schools.com/html/html5_new_elements.asp).
-[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/).
+for run faster.
++ [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 + [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
 [logos](https://worldvectorlogo.com/), 
@@ -60,10 +44,16 @@ and
 and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), 
 [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries),
 [NodeJS](http://nodeframework.com/),
-[Meteor](https://www.meteor.com/)).
-+ Use [Social Login](https://en.wikipedia.org/wiki/Social_login) to Sign in.
-+ webooks and [epub](http://idpf.org/epub) are responsive (better for multiple screens or paper sizes) and more trendy than [pdf](http://www.adobe.com/devnet/pdf.html).
-+ [Allow play good games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html)
+[Meteor](https://www.meteor.com/)), [Social Login](https://en.wikipedia.org/wiki/Social_login).
++ webooks and [epub](http://idpf.org/epub) will overcome [pdf](http://www.adobe.com/devnet/pdf.html).
++ [Prepros](https://prepros.io/) for **code** in [Markdown](http://daringfireball.net/projects/markdown/), 
+[Jade](http://jade-lang.com/), 
+[Stylus](https://learnboost.github.io/stylus/).
+with **minimal** 
+[Coffeescript](http://coffeescript.org/) +
+[Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
+then export to [web](https://developer.mozilla.org/en-US/docs/Web)
+
 
 [Python](https://www.python.org/)
 
