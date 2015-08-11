@@ -1,7 +1,8 @@
 Just my **GitHub** for
 [stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-**About me** 
+**About me**
+
 [half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian). 
 **learn** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
