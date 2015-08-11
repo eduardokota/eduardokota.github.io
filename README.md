@@ -35,7 +35,7 @@ frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) and
-[Coffeescript](http://coffeescript.org/) are pretty code shorthands. [Export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
+[Coffeescript](http://coffeescript.org/) are pretty shorthands. [Prepros](https://prepros.io/) export to [webcode](https://developer.mozilla.org/en-US/docs/Web).
 
 **About me**
 
