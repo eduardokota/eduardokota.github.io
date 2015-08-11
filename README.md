@@ -69,16 +69,7 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + [Favorite in West academy due to excellent science libraries](http://programmers.stackexchange.com/questions/138643/why-is-python-used-for-high-performance-scientific-computing-but-ruby-isnt) and simplicity. 
 + Unpopular in East Asia, because Asian languages [are tricky to type in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
 
-Game Dev
-
-+ [WebGL](https://www.youtube.com/watch?v=pRsTbo8PTJg) and [HTML5](http://www.html5gamedevelopment.com/) are now standard to make Games on web.
-+ While [Flash](http://www.adobe.com/products/flash.html) is [declining](http://isflashdeadyet.com/) despise recent success in Japan of Flash games like [Kancolle](http://knowyourmeme.com/memes/subcultures/kantai-collection).
-+ [Unreal](https://www.unrealengine.com/) has better graphics. Many AAA Games were made with Unreal as [Mass Effect](https://www.youtube.com/user/biowaremasseffect).
-+ [Unity](https://unity3d.com/) target [indie, but can also make good AAA Games](http://forum.unity3d.com/threads/unity-cant-make-good-triple-a-games.312681/).
-+ [Unity](https://unity3d.com/) can port Games easier on Web or mobile.
-+ With [Unreal](https://www.unrealengine.com/) port on Web is [experimental and very tricky ](https://blog.mozilla.org/blog/2014/03/12/mozilla-and-epic-preview-unreal-engine-4-running-in-firefox/) via [Emscripten](https://github.com/kripken/emscripten).
-+ Better graphics = run slower on limited PCs, mobiles and browsers.
-+ But I hope can play AAA Games on Web browser in far future.
+[Game Dev for Web](http://moduscreate.com/the-state-of-html5-gaming/)
 
 Code editor
 
