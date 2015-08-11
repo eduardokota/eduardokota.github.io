@@ -5,8 +5,9 @@ Just my **GitHub** for
 
 
 
-[Webapp](http://www.sitepoint.com/long-live-web-app/) shoul be ideally
+[Webapp](http://www.sitepoint.com/long-live-web-app/)
 
+be ideally
 [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [static](http://www.staticapps.org/), 
