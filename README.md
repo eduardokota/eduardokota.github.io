@@ -23,7 +23,7 @@ and a bit of
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 [static](http://www.staticapps.org/), 
-[can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
+[can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline)
 and [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html)
 + [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 + [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
