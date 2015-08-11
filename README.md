@@ -1,23 +1,12 @@
 Just my **GitHub** for
 [stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-**About me**
+・[About me](#aboutme)・[WebApp](#webdev)
 
-[half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian). 
-**learn** [STEM](https://en.wikipedia.org/wiki/STEM_fields),
-[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
-[Art](https://en.wikipedia.org/wiki/The_arts)
-as a geek. 
-enjoy [Anime](https://en.wikipedia.org/wiki/Anime)
-and
-[Game Dev](https://www.unrealengine.com/).
-**understand** [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
-some
-[English](https://en.wikipedia.org/wiki/English_language)
-and a bit of 
-[<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
 
-[Web code](http://www.sitepoint.com/long-live-web-app/).
+
+<span id="#webdev">**[Webapp](http://www.sitepoint.com/long-live-web-app/).**</span>
+
 Ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [static](http://www.staticapps.org/), 
@@ -46,6 +35,24 @@ frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) and
 [Coffeescript](http://coffeescript.org/) are pretty code shorthands. [Export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
+
+<span id="#aboutme">**About me**</span>
+
+・[half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian).
+・learn [STEM](https://en.wikipedia.org/wiki/STEM_fields),
+[Humanities](https://en.wikipedia.org/wiki/Humanities) and 
+[Art](https://en.wikipedia.org/wiki/The_arts)
+as a geek. 
+・enjoy [Anime](https://en.wikipedia.org/wiki/Anime)
+and
+[Game Dev](https://www.unrealengine.com/).
+・understand** [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
+some
+[English](https://en.wikipedia.org/wiki/English_language)
+and a bit of 
+[<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
+
+
 
 
 Many Code langs have limited use
