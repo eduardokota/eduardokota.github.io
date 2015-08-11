@@ -49,7 +49,7 @@ minimal [Coffeescript](http://coffeescript.org/) and
 [Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html), then export to [web](https://developer.mozilla.org/en-US/docs/Web).
 
 Many Code langs have limited use
-+ [Java] for [Android], [robots], [crafts], [banking] and [enterprises]. [Swift] or [ObjC] for Apple. [C#] for Microsoft. [Python] for Research or Servers. [Ruby] for Servers.
++ [Java] for [Android], [robots], [crafts], [banking] and [enterprises]. [Swift] or [ObjC] for Apple. [C#] for Microsoft. [Python] for Research and Django. [Ruby] for Rails or Sinatra.
 + [C++] is harder to learn. Interact with hardware for make OS components and Game Engines. Code changes with Platform. [Golang] and [Rust] can be rivals in future.
 + [Python](https://www.python.org/) unpopular in East Asia, because type Asian languages [are tricky](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), easier in the made in japan [Ruby](https://www.ruby-lang.org/).
 + [Coffeescript](http://coffeescript.org/) is a pretty shorthand for the quirky [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries) to make Web apps.
