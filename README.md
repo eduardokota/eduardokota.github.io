@@ -25,7 +25,7 @@ Ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0),
 [can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html). minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts to run faster. 
 
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
-[Web standards](https://developer.mozilla.org/en-US/docs/Web) and [epub](http://idpf.org/epub) overcame [pdf](http://www.adobe.com/devnet/pdf.html) and flash(http://www.adobe.com/products/flash.html)
+[Web standards](https://developer.mozilla.org/en-US/docs/Web) and [epub](http://idpf.org/epub) overcame [pdf](http://www.adobe.com/devnet/pdf.html) and [flash](http://www.adobe.com/products/flash.html)
 
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
