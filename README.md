@@ -42,7 +42,7 @@ frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.
 ・learn [STEM](https://en.wikipedia.org/wiki/STEM_fields),
 [Humanities](https://en.wikipedia.org/wiki/Humanities) and 
 [Art](https://en.wikipedia.org/wiki/The_arts)
-as a geek. 
+like a geek. 
 ・enjoy [Anime](https://en.wikipedia.org/wiki/Anime)
 and
 [Game Dev](https://www.unrealengine.com/).
