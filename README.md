@@ -51,8 +51,8 @@ minimal [Coffeescript](http://coffeescript.org/) and
 Many Code langs have limited use
 + [Java] for [Android], [robots], [crafts], [banking] and [enterprises]. [Swift] or [ObjC] for Apple. [C#] for Microsoft. [Python] for Research and Django. [Ruby] on Rails or Sinatra.
 + [C++] is harder to learn. Interact with hardware for make OS components and Game Engines. Code changes with Platform. [Golang] and [Rust] can be rivals in future.
-+ [Python](https://www.python.org/) is unpopular in East Asia, because Asian languages [are tricky to type](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but easier in [Coffeescript](http://coffeescript.org/) or made in Japan [Ruby](https://www.ruby-lang.org/).
 + [Coffeescript](http://coffeescript.org/) is a pretty shorthand for the quirky [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries) to make Web apps.
++ [Python](https://www.python.org/) is unpopular in East Asia, because Asian languages [are tricky to type](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but easier in [Coffeescript](http://coffeescript.org/) or made in Japan [Ruby](https://www.ruby-lang.org/).
 
 Code editor
 
