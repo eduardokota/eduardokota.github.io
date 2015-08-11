@@ -1,13 +1,13 @@
 Just my **GitHub** for
 [stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE).
 
-・[About me](#aboutme)・[WebApp](#webdev)
 
 
 
-<span id="#webdev">**[Webapp](http://www.sitepoint.com/long-live-web-app/).**</span>
 
-Ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
+[Webapp](http://www.sitepoint.com/long-live-web-app/) shoul be ideally
+
+[responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [static](http://www.staticapps.org/), 
 [can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html). minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts to run faster. 
@@ -36,7 +36,7 @@ frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.
 [Stylus](https://learnboost.github.io/stylus/) and
 [Coffeescript](http://coffeescript.org/) are pretty code shorthands. [Export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
 
-<span id="#aboutme">**About me**</span>
+**About me**
 
 ・[half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian).
 ・learn [STEM](https://en.wikipedia.org/wiki/STEM_fields),
