@@ -77,7 +77,8 @@ Game Dev
 + [Unity](https://unity3d.com/) target [indie, but can also make good AAA Games](http://forum.unity3d.com/threads/unity-cant-make-good-triple-a-games.312681/).
 + [Unity](https://unity3d.com/) can port Games easier on Web or mobile.
 + With [Unreal](https://www.unrealengine.com/) port on Web is [experimental and very tricky ](https://blog.mozilla.org/blog/2014/03/12/mozilla-and-epic-preview-unreal-engine-4-running-in-firefox/) via [Emscripten](https://github.com/kripken/emscripten).
-+ Better graphics = run slower on limited PCs, mobiles and browsers. But I hope in future run AAA Games on Web.
++ Better graphics = run slower on limited PCs, mobiles and browsers.
++ But I hope can play AAA Games on Web browser in far future.
 
 Code editor
 
