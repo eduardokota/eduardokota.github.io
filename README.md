@@ -48,11 +48,11 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 minimal [Coffeescript](http://coffeescript.org/) and
 [Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html), then export to [web](https://developer.mozilla.org/en-US/docs/Web).
 
-
-[Python](https://www.python.org/)
-
-+ [Favorite in West academy due to excellent science libraries](http://programmers.stackexchange.com/questions/138643/why-is-python-used-for-high-performance-scientific-computing-but-ruby-isnt) and simplicity. 
-+ Unpopular in East Asia, because Asian languages [are tricky to type in Python](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), but much easier in the made in japan [Ruby](https://www.ruby-lang.org/).
+Many Code langs have limited use
++ [Java] for [Android], [robots], [crafts], [banking] and [enterprises]. [Swift] or [ObjC] for Apple. [C#] for Microsoft. [Python] for Research or Servers. [Ruby] for Servers.
++ [C++] is harder to learn. Interact with hardware for make OS components and Game Engines. Code changes with Platform. [Golang] and [Rust] can be rivals in future.
++ [Python](https://www.python.org/) unpopular in East Asia, because type Asian languages [are tricky](http://stackoverflow.com/questions/14682933/chinese-and-japanese-character-support-in-python), easier in the made in japan [Ruby](https://www.ruby-lang.org/).
++ [Coffeescript](http://coffeescript.org/) is a pretty shorthand for the quirky [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries) to make Web apps.
 
 Code editor
 
