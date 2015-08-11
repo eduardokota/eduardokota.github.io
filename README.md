@@ -19,14 +19,14 @@ and a bit of
 [<ruby>日本語<rt>に ほん ご</ruby> (japanese)](https://en.wikipedia.org/wiki/Japanese_language)
 
 [Web code](http://www.sitepoint.com/long-live-web-app/).
-+ ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
+Ideally [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
-[minimal](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/), 
 [static](http://www.staticapps.org/), 
-[can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline)
-and [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html)
-+ [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
-+ [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
+[can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html). minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts to run faster. 
+
+[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
+
+[SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
 [logos](https://worldvectorlogo.com/), 
 [icons](http://www.flaticon.com/most-downloaded/), 
@@ -36,17 +36,20 @@ or
 [Sharp in any screen](https://en.wikipedia.org/wiki/Vector_graphics) 
 and 
 [can be animated](http://snapsvg.io).
-+ [3rdparty solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts)
+
+[3rdparty solutions](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts)
 and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), 
 [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries),
 [NodeJS](http://nodeframework.com/),
-[Meteor](https://www.meteor.com/)), [Social Login](https://en.wikipedia.org/wiki/Social_login).
-+ webooks and [epub](http://idpf.org/epub) will overcome [pdf](http://www.adobe.com/devnet/pdf.html).
-+ code in [Markdown](http://daringfireball.net/projects/markdown/), 
-[Jade](http://jade-lang.com/) and 
-[Stylus](https://learnboost.github.io/stylus/) with
-minimal [Coffeescript](http://coffeescript.org/) and
-[Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html) for run faster, then [export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
+[Meteor](https://www.meteor.com/)) or [Social Login](https://en.wikipedia.org/wiki/Social_login).
+
+Webooks and [epub](http://idpf.org/epub) will overcome [pdf](http://www.adobe.com/devnet/pdf.html).
+
+[Markdown](http://daringfireball.net/projects/markdown/), 
+[Jade](http://jade-lang.com/), 
+[Stylus](https://learnboost.github.io/stylus/) and
+[Coffeescript](http://coffeescript.org/) are nice shorthands. [Export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
+
 
 Many Code langs have limited use
 + [Java] for [Android], [robots], [crafts], [banking] and [enterprises]. [Swift] or [ObjC] for Apple. [C#] for Microsoft. [Python] for Research and Django. [Ruby] on Rails or Sinatra.
