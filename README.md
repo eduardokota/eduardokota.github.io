@@ -48,7 +48,7 @@ Webooks and [epub](http://idpf.org/epub) will overcome [pdf](http://www.adobe.co
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/) and
-[Coffeescript](http://coffeescript.org/) are nice shorthands. [Export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
+[Coffeescript](http://coffeescript.org/) are pretty code shorthands. [Export to web](https://developer.mozilla.org/en-US/docs/Web) with [Prepros](https://prepros.io/).
 
 
 Many Code langs have limited use
