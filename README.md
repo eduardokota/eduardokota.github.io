@@ -48,11 +48,11 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + webooks and [epub](http://idpf.org/epub) will overcome [pdf](http://www.adobe.com/devnet/pdf.html).
 + [Prepros](https://prepros.io/) for **code** in [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
-[Stylus](https://learnboost.github.io/stylus/).
+[Stylus](https://learnboost.github.io/stylus/),
 with **minimal** 
 [Coffeescript](http://coffeescript.org/) +
 [Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
-then export to [web](https://developer.mozilla.org/en-US/docs/Web)
+, and export to [web](https://developer.mozilla.org/en-US/docs/Web)
 
 
 [Python](https://www.python.org/)
