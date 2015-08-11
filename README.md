@@ -25,10 +25,6 @@ and a bit of
 [static](http://www.staticapps.org/), 
 [can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 and [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html)
-+ **minimal** 
-[Coffeescript](http://coffeescript.org/) +
-[Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
-for run faster.
 + [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 + [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
@@ -49,10 +45,9 @@ and frameworks ([CSS](http://www.cssauthor.com/css-frameworks/),
 + [Prepros](https://prepros.io/) for **code** in [Markdown](http://daringfireball.net/projects/markdown/), 
 [Jade](http://jade-lang.com/), 
 [Stylus](https://learnboost.github.io/stylus/),
-with **minimal** 
+and **minimal** 
 [Coffeescript](http://coffeescript.org/) +
-[Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html)
-, and export to [web](https://developer.mozilla.org/en-US/docs/Web)
+[Jquery](http://www.javaworld.com/article/2078613/java-web-development/6-reasons-you-should-be-using-jquery.html), and export to [web](https://developer.mozilla.org/en-US/docs/Web).
 
 
 [Python](https://www.python.org/)
