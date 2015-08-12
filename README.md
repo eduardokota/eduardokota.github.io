@@ -6,8 +6,6 @@ Just my **GitHub** for
 Ideally
 [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), [static](http://www.staticapps.org/), [can run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html), [packable in EPUB](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html)
 ・
-Minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts for run faster
-・
 [End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
