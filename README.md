@@ -29,7 +29,7 @@ I know [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](http
 some
 [English](https://en.wikipedia.org/wiki/English_language)
 and a bit of 
-[<ruby>日本語<rt>に ほん ご</ruby>(japanese)](https://en.wikipedia.org/wiki/Japanese_language). I enjoy [Anime](https://en.wikipedia.org/wiki/Anime)
+[<ruby>日本語<rt>に ほん ご</ruby>(japanese)](https://en.wikipedia.org/wiki/Japanese_language). I enjoy [Anime](https://en.wikipedia.org/wiki/Anime).
 
 
 
