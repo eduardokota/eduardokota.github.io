@@ -8,7 +8,7 @@ Ideally
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
 [static](http://www.staticapps.org/)
 ・
-Can [run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html), [packed in EPUB](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html)
+Also [run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html) or [packed in EPUB](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html)
 ・
 Minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts for run faster. 
 ・
