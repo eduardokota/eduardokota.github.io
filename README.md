@@ -7,14 +7,16 @@ Just my **GitHub** for
 
 Focus: [Web app](http://www.sitepoint.com/long-live-web-app/)
 
-be ideally
+Ideally
 [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), 
 [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), 
-[static](http://www.staticapps.org/). Can
-[run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html), [packed in EPUB](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html). minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts for run faster. 
-
-[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new browser features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
-[Web standards](https://developer.mozilla.org/en-US/docs/Web) and [epub](http://idpf.org/epub) overcame [pdf](http://www.adobe.com/devnet/pdf.html) and [flash](http://www.adobe.com/products/flash.html)
+[static](http://www.staticapps.org/)
+・
+Can [run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline), [play games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html), [packed in EPUB](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html)
+・
+Minimal [design](http://thenextweb.com/dd/2015/06/09/7-pillars-of-minimalist-web-design/) and scripts for run faster. 
+・
+[End IE support](http://venturebeat.com/2015/07/28/microsoft-edge-on-windows-10-the-browser-that-will-finally-kill-ie/) for enjoy [new features](http://caniuse.com/) as [flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 
 [SVG](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) 
 for 
