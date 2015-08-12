@@ -25,8 +25,7 @@ and
 frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), [Node](http://nodeframework.com/), [Meteor](https://www.meteor.com/)).
 
 **I'm** [half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian).
-・enjoy [Anime](https://en.wikipedia.org/wiki/Anime).
-・[native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
+I enjoy [Anime](https://en.wikipedia.org/wiki/Anime) and know [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
 some
 [English](https://en.wikipedia.org/wiki/English_language)
 and a bit of 
