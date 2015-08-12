@@ -19,8 +19,7 @@ or
 and 
 [can be animated](http://snapsvg.io).
 
-+ [Outsources](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slow when overused, as [Webfonts](https://www.google.com/fonts), [Social Login](https://en.wikipedia.org/wiki/Social_login) &amp;
-frameworks ([CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), [Node](http://nodeframework.com/), [Meteor](https://www.meteor.com/)).
++ [Outsources](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts), [Social Login](https://en.wikipedia.org/wiki/Social_login), [CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), [Node](http://nodeframework.com/), [Meteor](https://www.meteor.com/).
 
 **I'm** [half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian).
 I know [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
