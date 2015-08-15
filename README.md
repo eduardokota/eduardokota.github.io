@@ -1,6 +1,6 @@
 Just my **GitHub** for
 [stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE). Combine Kaizen and Gestalt. 
-+ **kaizen**. Improve quality. Innovate keeping tradition. be pioneer, creative,  [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), updated and cutting edge.
++ **kaizen**. Improve quality. Keep best traditon then innovate, be pioneer, creative,  [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), updated and cutting edge.
 + **gestalt**. Combine elements for create cool design. intuitive and fascinate on glance.
 
 
