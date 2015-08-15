@@ -5,7 +5,9 @@ Just my **GitHub** for
 
 **Focus** on [web app dev](http://www.sitepoint.com/long-live-web-app/)
 
-[Static](http://www.staticapps.org/) for GitHub host. Port [games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html) and  [ebooks](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html).
+・Enjoy [novelty](http://caniuse.com/) as [Flexbox](https://philipwalton.github.io/solved-by-flexbox/). [SVG icons](http://www.flaticon.com/most-downloaded/). [SVG math](https://www.mathjax.org/). [SVG gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). [SVG Animation](http://snapsvg.io). WebGL Canvas for 3dcg and Games. 
+・[Outsources](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts), [Social Login](https://en.wikipedia.org/wiki/Social_login), [CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), [Meteor](https://www.meteor.com/).
+・[Static](http://www.staticapps.org/) for GitHub host. Port [games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html) and  [ebooks](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html).
 [run also offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
 
 Combine Kaizen and Gestalt. 
@@ -13,12 +15,7 @@ Combine Kaizen and Gestalt.
 + **gestalt**. Combine elements for create cool design. [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), intuitive and fascinate on glance.
 
 
-Enjoy [new features](http://caniuse.com/) as
 
-[Flexbox](https://philipwalton.github.io/solved-by-flexbox/). [SVG icons](http://www.flaticon.com/most-downloaded/). [SVG math](https://www.mathjax.org/). [SVG gaiji](https://en.wiktionary.org/wiki/%E5%A4%96%E5%AD%97). [SVG Animation](http://snapsvg.io). WebGL Canvas for 3dcg and Games. 
-
-
-[Outsources](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html) are handy but slowdown when overused, as [Webfonts](https://www.google.com/fonts), [Social Login](https://en.wikipedia.org/wiki/Social_login), [CSS](http://www.cssauthor.com/css-frameworks/), [JS](http://beebom.com/2015/04/best-javascript-frameworks-and-libraries), [Meteor](https://www.meteor.com/).
 
 **I'm** [half Japanese](https://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](https://en.wikipedia.org/wiki/Japanese_Brazilian).
 I know [native](https://en.wikipedia.org/wiki/Native_language) [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language),
