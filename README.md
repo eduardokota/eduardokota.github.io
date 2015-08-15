@@ -1,13 +1,16 @@
 Just my **GitHub** for
-[stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE). Combine Kaizen and Gestalt. 
+[stay organized](https://www.youtube.com/watch?v=s8yT8Eh_efE). 
+
+
+
+**Focus** on [web app dev](http://www.sitepoint.com/long-live-web-app/)
+
+[Static](http://www.staticapps.org/) for GitHub host. Port [games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html) and  [ebooks](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html).
+[run also offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
+
+Combine Kaizen and Gestalt. 
 + **kaizen**. Improve quality. Keep best traditons, then innovate, be pioneer, creative,  [trendy](http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/), updated and cutting edge.
-+ **gestalt**. Combine elements for create cool design. intuitive and fascinate on glance.
-
-
-
-**Focus** on [web app dev](http://www.sitepoint.com/long-live-web-app/).
-
-[responsive](https://www.youtube.com/watch?v=snQp757_Rr0). [static](http://www.staticapps.org/) for GitHub host. port [games](http://www.awwwards.com/current-state-and-the-future-of-html5-games.html) and  [ebooks](http://toc.oreilly.com/2012/09/html5-epub-3-and-ebooks-vs-web-apps.html). [also run offline](https://developer.mozilla.org/en-US/Apps/Build/Offline).
++ **gestalt**. Combine elements for create cool design. [responsive](https://www.youtube.com/watch?v=snQp757_Rr0), intuitive and fascinate on glance.
 
 
 Enjoy [new features](http://caniuse.com/) as
