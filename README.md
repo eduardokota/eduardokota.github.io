@@ -8,13 +8,13 @@ Power words: [Gestalt](http://www.youtube.com/watch?v=LlzuJqZ797U), [Insight](ht
 
 Motivation quotes
 
-Pioneer path is hard but valued.
-Modernize tradition. 
-For achieve a goal, seek higher goals.
-Think on Solution over Problem.
-Do it now, before its late.
-Different is better than ordinary.
-Work smarter, not harder.
+Be pioneer.　
+Modernize tradition.　
+For achieve a goal, seek higher goals.　
+Think on Solution over Problem.　
+Do it now, before its late.　
+Different is better than ordinary.　
+Work smarter, not harder.　
 
 
 
