@@ -9,9 +9,9 @@ Power words: [Gestalt](http://www.youtube.com/watch?v=LlzuJqZ797U), [Insight](ht
 Motivation quotes
 
 Be pioneer.　
+Think on Solution over Problem.　
 Modernize tradition.　
 For achieve a goal, seek higher goals.　
-Think on Solution over Problem.　
 Do it now, before its late.　
 Different is better than ordinary.　
 Work smarter, not harder.　
