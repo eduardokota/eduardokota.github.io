@@ -5,17 +5,7 @@ Just my **GitHub** for
 
 Power words: [Gestalt](http://www.youtube.com/watch?v=LlzuJqZ797U), [Insight](http://www.youtube.com/watch?v=LlzuJqZ797U), [Kaizen](http://www.youtube.com/watch?v=jRdTFis4-3Q), [Remix](http://everythingisaremix.info/watch-the-series/). 
 
-Motivation quotes
-
-Be pioneer.　
-Think on Solution over Problem.　
-Hunger of Learning.　
-Modernize tradition.　
-Self-learn ＞ paid courses.　
-For achieve a goal, seek higher goals.　
-Do it now, before its late.　
-Different is better than ordinary.　
-Work smarter, not harder.　
+*Motivation quotes* ・Be pioneer・Think on Solution over Problem・Hunger of Learning・Modernize tradition・Self-learn＞paid courses・For achieve a goal, seek higher goals・Do it now, before its late・Diffrent＞than ordinary.・　Work smarter, not harder・　
 
 
 
