@@ -1,5 +1,5 @@
 Just my **GitHub** for
-[stay organized](http://www.youtube.com/watch?v=s8yT8Eh_efE). Learning [web app dev](http://www.sitepoint.com/long-live-web-app/). **I'm** [half Japanese](http://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](http://en.wikipedia.org/wiki/Japanese_Brazilian). A [Self-learner](http://en.wikipedia.org/wiki/Autodidacticism) and [Geek](http://www.hongkiat.com/blog/why-geek-is-the-new-cool/). I like [Manga](https//www.youtube.com/watch?v=sF1zusDQo88), study STEAM, and learn world culture through [English](http://en.wikipedia.org/wiki/English_language) and [<ruby>日本語<rt>に ほん ご</ruby> (Japanese)](http://en.wikipedia.org/wiki/Japanese_language).
+[stay organized](http://www.youtube.com/watch?v=s8yT8Eh_efE). Learning [web app dev](http://www.sitepoint.com/long-live-web-app/). **I'm** [half Japanese](http://en.wikipedia.org/wiki/H%C4%81fu) and [Brazilian](http://en.wikipedia.org/wiki/Japanese_Brazilian). A [Self-learner](http://en.wikipedia.org/wiki/Autodidacticism) and [Geek](http://www.hongkiat.com/blog/why-geek-is-the-new-cool/). I enjoy [Manga](https//www.youtube.com/watch?v=sF1zusDQo88), study [STEM fields](https://en.wikipedia.org/wiki/STEM_fields) and learn world culture through [English](http://en.wikipedia.org/wiki/English_language) and [<ruby>日本語<rt>に ほん ご</ruby> (Japanese)](http://en.wikipedia.org/wiki/Japanese_language).
 
 .
 
