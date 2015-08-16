@@ -5,7 +5,7 @@ Just my **GitHub** for
 
 Be pioneer and modernize tradition. Power words: [Gestalt](http://www.youtube.com/watch?v=LlzuJqZ797U), [Insight](http://www.youtube.com/watch?v=LlzuJqZ797U), [Kaizen](http://www.youtube.com/watch?v=jRdTFis4-3Q), [Remix](http://everythingisaremix.info/watch-the-series/). 
 
-Think on Solution over Problem. Be different for not be the same as others.
+Think on Solution over Problem. Be different for not be the same as others. Use the brain when alive.
 
 
 
