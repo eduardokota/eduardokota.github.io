@@ -10,11 +10,11 @@ Be pioneer and modernize tradition. Power words: [Gestalt](http://www.youtube.co
 
 Motivation quotes
 
-'For active a goal, seek higher goals.' 
-'Think on Solution over Problem.'
-'Do it now, before its late.'
-'Different is better than ordinary.'
-'Work smarter, not harder'
+For achieve a goal, seek higher goals.
+Think on Solution over Problem.
+Do it now, before its late.
+Different is better than ordinary.
+Work smarter, not harder.
 
 
 
